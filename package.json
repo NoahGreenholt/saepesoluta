@@ -1,0 +1,27 @@
+{
+  "name": "saepesoluta",
+  "version": "1.0.0",
+  "description": "A Universal Ethereum Provider",
+  "browser": "browser.js",
+  "main": "node.js",
+  "types": "./index.d.ts",
+  "author": "KeithKozey",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoahGreenholt/saepesoluta.git"
+  },
+  "dependencies": {
+    "ethereum-provider": "0.7.7",
+    "events": "3.3.0",
+    "oboe": "2.1.5",
+    "uuid": "9.0.0",
+    "ws": "8.9.0",
+    "xhr2-cookies": "1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "10.0.0",
+    "standard": "17.0.0"
+  },
+  "homepage": "https://github.com/NoahGreenholt/saepesoluta.git"
+}
